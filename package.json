@@ -1,6 +1,6 @@
 {
   "name": "graphics-template",
-  "homepage": "https://vs-postmedia.github.io/graphics-template/",
+  "homepage": "https://vs-postmedia.github.io/0801-gdp-interactive/",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,10 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/runtime": "^7.10.2",
-    "axios": "^0.19.2",
-    "d3": "^5.15.0",
-    "d3-svg-annotation": "^2.5.1"
+    "@babel/runtime": "^7.10.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",

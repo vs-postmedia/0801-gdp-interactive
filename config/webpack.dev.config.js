@@ -6,7 +6,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 
 // Tweak this to match your GitHub project name
-const publicPath = 'covid-active-cases/';
+const publicPath = '0801-gdp-interactive/';
 // process.cwd will return a path to our active project directory
 const ROOT_DIR = process.cwd();
 
